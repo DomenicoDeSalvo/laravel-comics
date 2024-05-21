@@ -1,6 +1,6 @@
 <footer>
     <div class="container">
-        <div class="d-flelx">
+        <div class="d-flex justify-content-evenly">
             <ul>
                 <li>Lorem, ipsum.</li>
                 <li>Lorem, ipsum.</li>

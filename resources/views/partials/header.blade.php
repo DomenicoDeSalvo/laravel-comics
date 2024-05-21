@@ -1,12 +1,12 @@
 <header>
     <nav class="container">
-        <ul class='d-flex list-unstyled'>
-            <li>
-                <a href="{{route('home')}}">Home</a>
-            </li>
-            <li>
-                <a href="{{route('comics')}}">Comics</a>
-            </li>
-        </ul>
+            <ul class='align-center d-flex list-unstyled gap-3'>
+                <li>
+                    <a href="{{route('home')}}">Home</a>
+                </li>
+                <li>
+                    <a href="{{route('comics')}}">Comics</a>
+                </li>
+            </ul>
     </nav>
 </header>
