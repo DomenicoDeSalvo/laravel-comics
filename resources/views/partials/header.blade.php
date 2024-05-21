@@ -1,5 +1,5 @@
 <header>
-    <nav>
+    <nav class="container">
         <ul class='d-flex list-unstyled'>
             <li>
                 <a href="{{route('home')}}">Home</a>
