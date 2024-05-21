@@ -10,6 +10,12 @@
                 <li>
                     <a href="{{route('privacy')}}">Privacy</a>
                 </li>
+                <li>
+                    <a href="{{route('about')}}">Chi siamo</a>
+                </li>
+                <li>
+                    <a href="{{route('contacts')}}">Contatti</a>
+                </li>
             </ul>
     </nav>
 </header>
