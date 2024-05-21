@@ -7,6 +7,9 @@
                 <li>
                     <a href="{{route('comics')}}">Comics</a>
                 </li>
+                <li>
+                    <a href="{{route('privacy')}}">Privacy</a>
+                </li>
             </ul>
     </nav>
 </header>
