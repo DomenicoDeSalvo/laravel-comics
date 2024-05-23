@@ -1,4 +1,4 @@
-<footer>
+<footer class='py-3'>
     <div class="container">
         <div class="d-flex justify-content-evenly">
             <ul>
